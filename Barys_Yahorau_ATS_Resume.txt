@@ -1,0 +1,59 @@
+BARYS YAHORAU
+Senior Backend Engineer
+Belgrade, Serbia | +381 61 6122795 | borisyegorov8@gmail.com | linkedin.com/in/barys-yahorau-49aba4a0
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 10+ years of experience building distributed systems, high-load backend services, and asynchronous microservices. Strong background in Rust, Go, cloud-native infrastructure, Kubernetes, PostgreSQL, Kafka, and observability. Track record of improving scalability, latency, reliability, and infrastructure efficiency across production systems.
+
+CORE SKILLS
+- Languages: Rust, Go
+- Backend and APIs: microservices, distributed systems, REST, gRPC, WebSockets
+- Data and Messaging: PostgreSQL, Redis, Redis Cluster, ClickHouse, Kafka
+- Infrastructure: Docker, Kubernetes, GitLab CI, Bash
+- Observability: OpenTelemetry, Grafana, Prometheus, ELK
+- Engineering Focus: performance optimization, fault tolerance, scalability, incident reduction
+
+PROFESSIONAL EXPERIENCE
+TechVerse Solutions | Belgrade, Serbia
+Senior Backend Engineer | Mar 2024 - Present
+- Led architecture and delivery for new capabilities in a loyalty cashback microservice, decoupling the service from legacy dependencies and improving scalability from 1,000 to 10,000 requests per second. Stack: Rust, gRPC, PostgreSQL, ClickHouse, Kafka.
+- Architected and delivered a real-time notification service, replacing multi-day analytical data delays with sub-second event propagation across the platform. Stack: Rust, Tokio, Kafka.
+- Designed and introduced a caching layer in front of legacy services, reducing p95 latency from about 500 ms to single-digit milliseconds and protecting downstream systems from traffic spikes. Stack: Redis Cluster, Rust.
+- Established observability standards across microservices by introducing distributed tracing and trace ID propagation, reducing mean time to root cause by about 30 percent in production incidents. Stack: OpenTelemetry, Grafana, ELK.
+- Identified and fixed a memory leak in a custom rate limiter, improving stability under load and reducing memory limits from 2 GB to 265 MB per replica.
+- Led technical interviews and mentored new engineers, improving onboarding and reducing time to productivity by about 2 to 3 weeks.
+
+QuadCode | Larnaca, Cyprus
+Senior Backend Engineer | Feb 2022 - Jan 2024
+- Led design and implementation of an asynchronous environment lifecycle manager that orchestrated creation and deletion of isolated environments through the Kubernetes API, reducing test environment costs by about 6x. Stack: Rust, Tokio, kube-rs.
+- Owned the environment provisioning domain and built lifecycle management services that reduced manual intervention by about 60 to 70 percent and improved test environment reliability.
+- Drove development of a self-healing mechanism for recurring production issues with stuck Kubernetes pods, eliminating repetitive manual checks and reducing incident response time by 15 percent.
+- Introduced asynchronous Rust with Tokio for concurrent environment operations, increasing throughput by about 4x and improving responsiveness under load.
+
+Tinkoff | Saint Petersburg, Russia
+Backend Engineer | Sep 2018 - Jan 2022
+- Developed backend services for a high-load social platform for investors, supporting subscriptions, feeds, and real-time user interactions. Stack: Go, PostgreSQL, Kafka.
+- Improved feed filtering performance through optimized pagination strategies that balanced consistency and response time under high load.
+- Refactored data collection scheduling and ingestion pipelines, improving reliability and maintainability of data processing workflows. Stack: Rust, PostgreSQL.
+
+Tispr | Grodno, Belarus
+Backend Engineer | Mar 2017 - Aug 2018
+- Developed and maintained event-driven workflows for a jobs marketplace built on microservices. Stack: Node.js, MongoDB, Amazon SNS.
+- Diagnosed and fixed production issues, improving stability and reducing downtime by parallelizing service-to-service communication.
+
+Instinctools | Grodno, Belarus
+Fullstack Engineer | Feb 2016 - Mar 2017
+- Developed and supported web applications across backend and frontend layers. Stack: Node.js, React, Redux, PostgreSQL.
+- Built REST APIs and integrated frontend components to improve product functionality and user experience.
+
+Ideasoft | Minsk, Belarus
+Fullstack Engineer | Feb 2015 - Feb 2016
+- Developed web applications and backend services, implementing new features and maintaining existing functionality. Stack: PHP, Symfony, MySQL, AngularJS.
+
+Giprosvjaz | Minsk, Belarus
+Fullstack Engineer | Jul 2012 - Feb 2015
+- Customized and developed web applications and CMS-based solutions for client requirements. Stack: PHP, Drupal, JavaScript, MySQL.
+
+EDUCATION
+Belarusian State University of Informatics and Radioelectronics
+Bachelor of Telecommunications Engineering (Telecommunications Networks) | Sep 2007 - Jun 2012
